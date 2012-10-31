@@ -1,0 +1,7 @@
+c:\users\roberto\documents\visual studio 2010\Projects\Obvod\Obvod\bin\Debug\Obvod.exe
+c:\users\roberto\documents\visual studio 2010\Projects\Obvod\Obvod\bin\Debug\Obvod.pdb
+c:\users\roberto\documents\visual studio 2010\Projects\Obvod\Obvod\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\roberto\documents\visual studio 2010\Projects\Obvod\Obvod\obj\x86\Debug\Obvod.exe
+c:\users\roberto\documents\visual studio 2010\Projects\Obvod\Obvod\obj\x86\Debug\Obvod.pdb
+C:\Users\ROBERTO\documents\visual studio 2010\Projects\Obvod\Obvod\bin\Debug\nunit.framework.dll
+C:\Users\ROBERTO\documents\visual studio 2010\Projects\Obvod\Obvod\bin\Debug\nunit.framework.xml
